@@ -5,9 +5,9 @@ This is a repo of all my codewars solutions organized by coding language and the
 # Directory
 * Java
   * 6kyu
-   * find-the-outlier
+    * find-the-outlier
   * 7kyu
-   * binary-addition
+    * binary-addition
   * 8kyu
 * JavaScript
 * CSS
