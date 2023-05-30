@@ -4,11 +4,11 @@ This is a repo of all my codewars solutions organized by coding language and the
 
 # Directory
 * Java
- * 6kyu
-  * find-the-outlier
- * 7kyu
-  * binary-addition
- * 8kyu
+  * 6kyu
+   * find-the-outlier
+  * 7kyu
+   * binary-addition
+  * 8kyu
 * JavaScript
 * CSS
 * HTML
